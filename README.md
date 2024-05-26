@@ -1,5 +1,3 @@
-# GameX
-GameX is a gaming website that organize gaming tournaments.
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/GameX)
@@ -39,18 +37,18 @@ To run **GameX** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/gamex.git
+sudo git clone https://github.com/codeaashu/GameX.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/gamex.git
+git clone https://github.com/codeaashu/GameX.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codeaashu).
 
 ### License
 
