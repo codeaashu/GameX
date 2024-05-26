@@ -16,7 +16,7 @@ GameX is a gaming website that organize gaming tournaments.
 
   GameX is a fully responsive eSports gaming website that organize gaming tournaments, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/gamex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://gamex-gaming.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
