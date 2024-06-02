@@ -1,4 +1,4 @@
-<div align="center">
+z<div align="center">
 
   ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/GameX)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/GameX?style=social)
