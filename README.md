@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/GameX)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/GameX?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/GameX?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeaashu?style=social)](https://twitter.com/intent/follow?screen_name=codeaashu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeaashu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
   <br />
   <br />
