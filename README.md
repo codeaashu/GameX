@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/GameX)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/GameX?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/GameX?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
 
   <br />
   <br />
@@ -56,4 +56,15 @@ This project is **free to use** and does not contains any license.
 <br />
 
 ![windows-mockup-08 (1)](https://github.com/codeaashu/GameX/assets/130897584/b83de2df-50e7-459c-a8cd-7df5c10585b8)
+
+---
+
+Cooked by aashuu ✦ (Ashutosh Kumar)<br>
+Founder of [2C Labs](https://www.2clabs.tech)
+
+I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+
+Connect here:<br>
+Website [www.aashuu.me](https://www.aashuu.me) ✦  𝕏 [@warrioraashuu](https://x.com/warrioraashuu) ✦  LinkedIn [@warrioraashuu](https://www.linkedin.com/in/warrioraashuu/)
+
 
